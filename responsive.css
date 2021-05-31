@@ -1,0 +1,130 @@
+@media (max-width:1200px){
+    .banner-btn h6 {
+        width: 25%;
+
+    }
+    .navbar-brand {
+        margin-left: 60px;
+    }
+}
+@media (max-width:990px) {
+    .form-gp1 {
+        margin-top: 50px;
+        margin-bottom: 40px;
+    }
+    .navbar-brand {
+        margin-left: 130px ;
+    }
+    .social-text {
+        padding: 0;
+    }
+    .social-icons i {
+        font-size: 45px;
+        padding: 0 10px;
+    }
+    .features-area {
+        padding-top: 70px;
+        padding-bottom: 30px;
+    }
+.nav-panels {
+        padding-top: 60px;
+    }
+    .features-img  {
+        display: flex;
+        justify-content: center;
+    }
+    .pricing-col {
+        padding-right: 120px;
+        padding-left: 90px;
+        padding-bottom: 40px;
+    }
+    .customers-container {
+        margin-bottom: 30px;
+    }
+    .customers-area {
+        padding-bottom: 50px;
+
+}
+@media (max-width:850px){
+    .navbar-brand {
+        margin-left: 60px;
+    }
+}
+@media (max-width:768px) {
+    .nav-panels ul {
+        flex-direction: row;
+        justify-content: center;
+    }
+    .process-text {
+        padding: 0;
+    }
+    .pricing-col {
+        padding-left: 80px;
+        padding-bottom: 40px;
+        padding-right: 35px;
+    }
+    .customers-icons p {
+        margin-bottom: 25px;
+    }
+    .banner-btn h6 {
+        width: 30%;
+    }
+
+}
+@media (max-width:620px) {
+    .social-icons i { 
+        font-size:35px ;
+    }
+    .social-icons i:last-child {
+        padding-right: 0;
+    }
+} 
+@media (max-width:575px) {
+    .social-icons  {
+        width: 13%;   
+    }  
+    .social-icons i {
+        padding:  15px 20px ;
+    }
+    .navbar-brand {
+        margin-left: 0;
+    }
+    .banner-btn h6{
+        width: 30%;
+    }
+}
+
+@media (max-width:475px) {
+    .social-icons  {
+        width: 13%;   
+    }  
+    .social-icons i {
+        padding:  15px 25px ;
+    }
+    .navbar-brand {
+        margin-left: 0;
+    }
+    .banner-btn h6{
+        width: 35%;
+    }
+    .pricing-col {
+        padding: 0 25px 40px;
+    }
+}
+@media (max-width:450px) {
+    .banner-btn h6{
+        width: 41%;
+    }
+}
+@media (max-width: 400px) {
+    .navbar-brand {
+        margin-left: 0;
+    }
+  
+    .pricing-col {
+        padding: 0 10px 40px;
+    }
+    .banner-btn h6{
+        width: 44%;
+    }
+}
