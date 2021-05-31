@@ -132,4 +132,7 @@
     .social-icons i {
         padding: 0;
     }
+    .banner-text h6 {
+        width: 52%;
+    }
 }
