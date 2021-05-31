@@ -92,6 +92,7 @@
     .banner-btn h6{
         width: 30%;
     }
+
 }
 
 @media (max-width:475px) {
@@ -115,6 +116,13 @@
     .banner-btn h6{
         width: 41%;
     }
+    .banner {
+        text-align: center;
+    }
+    .banner-btn {
+        display: flex;
+        justify-content: center;
+    }
 }
 @media (max-width: 400px) {
     .navbar-brand {
@@ -127,12 +135,26 @@
     .banner-btn h6{
         width: 44%;
     }
+    .features-img img {
+        margin-top: 60px;
+    }   
+    .features-btn {
+        display: flex;
+        justify-content: center;
+    }
 }
 @media (max-width:320px) {
     .social-icons i {
         padding: 0;
     }
     .banner-btn h6 {
-        width: 52%;
+        width: 60%;
+    }
+    .banner {
+        text-align: center;
+    }
+    .banner-btn {
+        display: flex;
+        justify-content: center;
     }
 }
