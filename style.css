@@ -28,9 +28,7 @@ p{
 .navbar-brand {
     margin-left: 160px;
 }
-.collapse.show {
-    text-align: center;
-}
+
 /* header banner */ 
 .banner {
     background-image: url('header.png');
